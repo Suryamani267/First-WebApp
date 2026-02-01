@@ -1,0 +1,5 @@
+{
+  "name": "Pan-ONGC Energy Intelligence Dashboard",
+  "description": "A centralized operational dashboard and analytical tool for ONGC plants featuring Excel data ingestion, detailed energy metrics, KPI visualization, and AI-driven decision support.",
+  "requestFramePermissions": []
+}
